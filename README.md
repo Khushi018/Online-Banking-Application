@@ -34,6 +34,7 @@ Tech Stack
 3. MYSQL
 
 ![ER DIAGRAM ](C:\Users\Khushi gupta\Desktop\IMAGES-------/banking1.jpg)
+<img src="C:\Users\Khushi gupta\Desktop\IMAGES-------/banking1.jpg" alt="Alt text" title="Optional title">
 # Flow Chart
 
 ![flowchart](https://user-images.githubusercontent.com/70317048/221799200-50129ae4-3bb4-4669-b951-8afa21594601.png)
