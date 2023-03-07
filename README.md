@@ -2,8 +2,11 @@
 
 
 # Online-Banking-System
-Description :
-It is an Online Banking Application using Advance Java and Spring Boot. This application is for accessing your bank account and carrying out financial transactions through the internet on your smartphone, tablet or computer. It's quick, usually free and allows you to do tasks, such as paying bills and transferring money, without having to visit .
+Description : 
+It is an Online Banking Application using Advance Java and Spring Boot. This application is for accessing your bank account and carrying out financial transactions through the internet on your smartphone, tablet or computer. It's quick, usually free and allows you to do tasks, such as paying bills and transferring money, without having to visit . 
+
+Objective : 
+The objective of this application to manage the details of accounts, Internet banking, transaction, balance.
 
 Users of this project are :
 1. Accountant
@@ -29,9 +32,8 @@ Tech Stack
 1. Java
 2. JDBC
 3. MYSQL
-4. Github
 
-
+![ER DIAGRAM ](C:\Users\Khushi gupta\Desktop\IMAGES-------/banking1.jpg)
 # Flow Chart
 
 ![flowchart](https://user-images.githubusercontent.com/70317048/221799200-50129ae4-3bb4-4669-b951-8afa21594601.png)
