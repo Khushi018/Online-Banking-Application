@@ -58,4 +58,7 @@ Deposit
 Withdraw
 Time Of transaction
 
+# Flow Chart
+
+![flowchart](https://user-images.githubusercontent.com/70317048/221799200-50129ae4-3bb4-4669-b951-8afa21594601.png)
 
