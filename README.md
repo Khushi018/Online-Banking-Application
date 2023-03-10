@@ -24,8 +24,8 @@ Roles of Accountant are:
 Roles of Customer are
 1. Login using his/her username and password
 2. Transfer the money from his account to other account
-3. Checking the transaction history# Online banking System
-The objective of this project is to maintain the accounts and transactions like withdrawing, depositing money, transferring and viewing all the details of transactions. Bank provides account number to the customer for dealing transactions in the bank. An accountant registers a customer using his/her details.
+3. Checking the transaction history
+
 
 Tech Stack
 
@@ -35,6 +35,7 @@ Tech Stack
 
 
 <img align ="center" width="100%" src="https://github.com/Khushi018/permissible-pot-8510/blob/main/Online_Banking_System_JAVA/banking1.JPG" />
+
 # Flow Chart
 
 ![flowchart](https://user-images.githubusercontent.com/70317048/221799200-50129ae4-3bb4-4669-b951-8afa21594601.png)
