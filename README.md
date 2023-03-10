@@ -33,6 +33,7 @@ Tech Stack
 2. JDBC
 3. MYSQL
 
+# ER-Diagram
 
 <img align ="center" width="100%" src="https://github.com/Khushi018/permissible-pot-8510/blob/main/Online_Banking_System_JAVA/banking1.JPG" />
 
