@@ -1,6 +1,7 @@
 package finalUseCase;
 
 import java.util.List;
+
 import java.util.Scanner;
 
 import com.ConsoleColors.ConsoleColors;
@@ -17,8 +18,10 @@ public class Main {
 	static Scanner sc = new Scanner(System.in);
 	
 	public static void accountantMenu() {
+//		CHECK MYSQL DATABASE NAME PASSWORD AND USERNAME BEFORE RUNNING THE APPLICATION
 		
 		System.out.println(ConsoleColors.GREEN_BOLD
+				
 				+ "+==============================================================+" + "\n"
 				+ "|         Welcome to Accountant Portal                         |" + "\n"
 				+ "+==============================================================+" + "\n"

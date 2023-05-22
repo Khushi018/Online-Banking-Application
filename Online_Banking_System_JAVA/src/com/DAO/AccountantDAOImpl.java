@@ -23,7 +23,7 @@ public class AccountantDAOImpl implements AccountantDAO {
 		
 		try(Connection con = DBUtil.provideConnection()) {
 			
-			PreparedStatement ps = con.prepareStatement("select accName from accountant where accId = ? AND password = ?");
+			PreparedStatement ps = con.prepareStatement("select accName from accountant where accName = ? AND password = ?");
 			ps.setString(1, email);
 			ps.setString(2, password);
 			ResultSet rs = ps.executeQuery();
