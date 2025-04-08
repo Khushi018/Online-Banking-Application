@@ -1,29 +1,38 @@
-# Console based Application
+# Online-Banking-System - A Console based Application
 
-# Online-Banking-System
 Description : 
-It is an Online Banking Application using Advance Java and Spring Boot. This application is for accessing your bank account and carrying out financial transactions through the internet on your smartphone, tablet or computer. It's quick, usually free and allows you to do tasks, such as paying bills and transferring money, without having to visit . 
+This project is a console-based application developed using Java, JDBC, and MySQL. It provides core banking functionalities such as account management, transaction handling, and balance inquiries. The application ensures secure and efficient operations, leveraging JDBC for database connectivity and MySQL for data storage. It is designed to streamline banking processes for both accountants and customers, offering a reliable and user-friendly experience.
 
 Objective : 
-The objective of this application to manage the details of accounts, Internet banking, transaction, balance.
+The objective of this application to manage the details of accounts, customer, banking, transaction, balance.
 
 Users of this project are :
 1. Accountant
 2. Customer
 
-Roles of Accountant are:
-1.  Login using his/her username and password.
-2.  Adding new account for customer.
-3.  Editing already available account.
-4.  Removing the account by using account number.
-5.  Viewing particular account details by giving account number.
-6.  Viewing all the account details.
-7.  Taking care of deposit and withdrawal operations.
+Roles of Accountant are:  
+                1. Add New Customer Account  
+                2. Update Name of an existing accountholder  
+                3. Update Email of an existing accountholder  
+                4. Update Contact Number of an existing accountholder  
+                5. Update Address of an existing accountholder  
+                6. Remove the account by account number  
+                7. View particular account details by giving account number  
+                8. View the details of all accountholders  
+                9. View deposit and withdrawal operations for Customer  
+                10. Get account number from Customer Email  
+                11. Add new accountant  
+                12. LOGOUT  
+                13. Exit the application  
 
-Roles of Customer are
-1. Login using his/her username and password
-2. Transfer the money from his account to other account
-3. Checking the transaction history
+Roles of Customer are:
+                            1. View Balance  
+                            2. Deposit Money  
+                            3. Withdraw Money  
+                            4. Transfer Money  
+                            5. View Transaction History  
+                            6. LOGOUT  
+                            7. Exit the application  
 
 
 Tech Stack
