@@ -1,20 +1,20 @@
-# 💳 Online Banking System — Console-Based Java Application
+# 💳 Online Banking System
+### Console-Based Java Application
 
 ## 📘 Description
 The **Online Banking System** is a **console-based Java application** that simulates core banking functionalities. Built using **Java**, **JDBC**, and **MySQL**, this system supports operations like account creation, transactions, and customer data management. It ensures reliable and secure access to banking features for both accountants and customers.
 
----
+
 
 ## 🎯 Objective
 To manage customer accounts, transactions, and balances efficiently while providing a secure and user-friendly interface for both bank staff and clients.
 
----
+
 
 ## 👥 Users
 - **Accountant**
 - **Customer**
 
----
 
 ## 🧑‍💼 Accountant Features
 1. ➕ Add New Customer Account  
@@ -31,7 +31,6 @@ To manage customer accounts, transactions, and balances efficiently while provid
 12. 🔐 Logout  
 13. 🚪 Exit the Application  
 
----
 
 ## 🙋‍♂️ Customer Features
 1. 💼 View Balance  
@@ -42,16 +41,13 @@ To manage customer accounts, transactions, and balances efficiently while provid
 6. 🔐 Logout  
 7. 🚪 Exit the Application  
 
----
 
 ## 🧰 Tech Stack
 - **Java** – Console-based Application Logic
 - **JDBC** – Database Connectivity
 - **MySQL** – Data Storage
 
----
 
 ## 📐 ER Diagram
 ![ER Diagram](https://github.com/Khushi018/permissible-pot-8510/blob/main/Online_Banking_System_JAVA/banking1.JPG)
 
----
