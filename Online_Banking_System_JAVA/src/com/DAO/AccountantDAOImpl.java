@@ -43,7 +43,7 @@ public class AccountantDAOImpl implements AccountantDAO {
 	}
 
 	@Override
-	public String addCustomer(String name, String email, String password, int phoneNumber, String address, int balance) throws CustomerException {
+	public String addCustomer(String name, String email, String password, String phoneNumber, String address, int balance) throws CustomerException {
 		String ans = "Inserted data is incorrect.";
 		
 		try(Connection con = DBUtil.provideConnection()) {
@@ -52,7 +52,7 @@ public class AccountantDAOImpl implements AccountantDAO {
 			ps.setString(1, name);
 			ps.setString(2, email);
 			ps.setString(3, password);
-			ps.setInt(4, phoneNumber);
+			ps.setString(4, phoneNumber);
 			ps.setString(5, address);
 			ps.setInt(6, balance);
 			int res = ps.executeUpdate();

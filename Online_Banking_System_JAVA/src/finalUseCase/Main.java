@@ -62,8 +62,7 @@ public class Main {
 				String password = sc.nextLine();
 				
 				System.out.println(ConsoleColors.YELLOW+"Enter Phone Number: "+ConsoleColors.RESET);
-				int phone = sc.nextInt();
-				sc.nextLine();
+				String phone = sc.nextLine();
 				
 				System.out.println(ConsoleColors.YELLOW+"Enter Address: "+ConsoleColors.RESET);
 				String address = sc.nextLine();

@@ -11,7 +11,7 @@ public interface AccountantDAO {
 	
 	public String Login(String email, String password) throws AccountantException; 
 	public String addAccountant(String email, String password, String name) throws AccountantException;
-	public String addCustomer(String name, String email, String password, int phoneNumber, String address, int balance) throws CustomerException;
+	public String addCustomer(String name, String email, String password, String phoneNumber, String address, int balance) throws CustomerException;
 	public String updateName(String name, int accountNumber) throws CustomerException;
 	public String updateEmail(String email, int accountNumber) throws CustomerException;
 	public String updatePhoneNumber(int phoneNumber, int accountNumber) throws CustomerException;

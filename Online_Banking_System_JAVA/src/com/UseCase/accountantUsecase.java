@@ -18,7 +18,7 @@ public class accountantUsecase {
 		System.out.println("Enter Password: ");
 		String password = sc.next();
 		System.out.println("Enter Phone Number: ");
-		int phone = sc.nextInt();
+		String phone = sc.next();
 		System.out.println("Enter Address: ");
 		String address = sc.next();
 		System.out.println("Enter Balance: ");
